@@ -1,2 +1,2 @@
 # ModelDB
-Interesting models from ModelDB
+Interesting original models from ModelDB
